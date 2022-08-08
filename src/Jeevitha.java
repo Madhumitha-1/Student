@@ -8,7 +8,7 @@ class Second {
         }
         float tot = 0.0f;
         int t = 0;
-        for (int i = 0; i < a.length; i++) {
+        forg(int i = 0; i < a.length; i++) {
             t += a[i];
             tot = tot + a[i] * 100;
             if (a[i] > 8) {
